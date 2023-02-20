@@ -1,0 +1,15 @@
+D:\repos\MyRepos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.AssemblyReference.cache
+D:\repos\MyRepos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\MyRepos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfoInputs.cache
+D:\repos\MyRepos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.AssemblyInfo.cs
+D:\repos\MyRepos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.csproj.CoreCompileInputs.cache
+D:\repos\MyRepos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.exe
+D:\repos\MyRepos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.deps.json
+D:\repos\MyRepos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.runtimeconfig.json
+D:\repos\MyRepos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.dll
+D:\repos\MyRepos\DesignPattern\DesignPattern\bin\Debug\net6.0\DesignPattern.pdb
+D:\repos\MyRepos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.dll
+D:\repos\MyRepos\DesignPattern\DesignPattern\obj\Debug\net6.0\refint\DesignPattern.dll
+D:\repos\MyRepos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.pdb
+D:\repos\MyRepos\DesignPattern\DesignPattern\obj\Debug\net6.0\DesignPattern.genruntimeconfig.cache
+D:\repos\MyRepos\DesignPattern\DesignPattern\obj\Debug\net6.0\ref\DesignPattern.dll
